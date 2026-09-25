@@ -23,9 +23,12 @@ Natural de **Manaus** e atualmente residente em São Paulo, sou bolsista integra
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <br>
-  <!-- Dados e Ferramentas -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <!-- Dados e Business Intelligence -->
+  <img src="https://img.shields.io/badge/Tableau%20Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Desktop" />
+  <img src="https://img.shields.io/badge/Tableau%20Prep-EB5757?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Prep Builder" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <br>
+  <!-- Desenvolvimento e Gestão -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
