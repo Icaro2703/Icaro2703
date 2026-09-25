@@ -52,5 +52,5 @@ Natural de **Manaus** e atualmente residente em São Paulo, sou bolsista integra
 
 ### 🤝 Vamos nos conectar?
 
-* [LinkedIn](https://linkedin.com/in/seu-usuario-linkedin)
+* [LinkedIn](https://www.linkedin.com/in/icaro-dias-046686339/)
 * 📧 E-mail: `icarodias1978@gmail.com`
