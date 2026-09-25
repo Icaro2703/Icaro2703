@@ -40,15 +40,6 @@ Natural de **Manaus** e atualmente residente em São Paulo, sou bolsista integra
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Icaro2703&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro2703&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
 ### 🤝 Vamos nos conectar?
 
 * [LinkedIn](https://www.linkedin.com/in/icaro-dias-046686339/)
