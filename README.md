@@ -15,22 +15,22 @@ Natural de **Manaus** e atualmente residente em São Paulo, sou bolsista integra
 
 ### 💻 Tecnologias e Ferramentas
 
-<div align="left">
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<div align="left" style="margin-top: 15px;">
+  <!-- Linguagens com ícones puros (sem fundos de badge) -->
+  <img src="https://cdn.simpleicons.org/python/3776AB/F0F0F0" alt="Python" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/java/ED8B00/F0F0F0" alt="Java" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E/000000" alt="JavaScript" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/r/276DC3/F0F0F0" alt="R Project" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1/F0F0F0" alt="SQL (MySQL)" width="50" height="50" style="margin-right: 10px;" />
   <br>
-  <!-- Dados e Business Intelligence -->
-  <img src="https://img.shields.io/badge/Tableau%20Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Desktop" />
-  <img src="https://img.shields.io/badge/Tableau%20Prep-EB5757?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Prep Builder" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <!-- Dados e BI -->
+  <img src="https://cdn.simpleicons.org/tableau/E97627/F0F0F0" alt="Tableau" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621/F0F0F0" alt="Databricks (para representar Prep/Fluxos)" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933/F0F0F0" alt="Node.js" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
   <br>
-  <!-- Desenvolvimento e Gestão -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <!-- DevOps e Gestão -->
+  <img src="https://cdn.simpleicons.org/git/F05032/F0F0F0" alt="Git" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC/F0F0F0" alt="Jira" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
 </div>
 
 ---
