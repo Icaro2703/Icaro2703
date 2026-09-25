@@ -15,22 +15,19 @@ Natural de **Manaus** e atualmente residente em São Paulo, sou bolsista integra
 
 ### 💻 Tecnologias e Ferramentas
 
-<div align="left" style="margin-top: 15px;">
-  <!-- Linguagens com ícones puros (sem fundos de badge) -->
-  <img src="https://cdn.simpleicons.org/python/3776AB/F0F0F0" alt="Python" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/java/ED8B00/F0F0F0" alt="Java" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E/000000" alt="JavaScript" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/r/276DC3/F0F0F0" alt="R Project" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1/F0F0F0" alt="SQL (MySQL)" width="50" height="50" style="margin-right: 10px;" />
-  <br>
-  <!-- Dados e BI -->
-  <img src="https://cdn.simpleicons.org/tableau/E97627/F0F0F0" alt="Tableau" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621/F0F0F0" alt="Databricks (para representar Prep/Fluxos)" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933/F0F0F0" alt="Node.js" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
-  <br>
-  <!-- DevOps e Gestão -->
-  <img src="https://cdn.simpleicons.org/git/F05032/F0F0F0" alt="Git" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC/F0F0F0" alt="Jira" width="50" height="50" style="margin-right: 10px; margin-top: 10px;" />
+<div align="left">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45" style="margin-right: 12px;" />
+  <br><br>
+  <!-- Dados, BI e Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45" style="margin-right: 12px;" />
 </div>
 
 ---
